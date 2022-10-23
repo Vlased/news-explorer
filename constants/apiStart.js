@@ -1,0 +1,1 @@
+export const API_START = 'https://newsapi.org/v2/everything';
